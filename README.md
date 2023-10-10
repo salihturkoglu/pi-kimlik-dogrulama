@@ -1,3 +1,3 @@
 ## π Kimlik Doğrulama
-Özel üretilen captcha ile π kimlik doğrulama projesi.</br>
-pi authentication project with specially produced captcha.
+Özel üretilen captcha ile π kimlik doğrulama.</br>
+pi authentication with specially produced captcha.
